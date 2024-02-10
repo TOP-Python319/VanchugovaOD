@@ -1,7 +1,7 @@
 # Задание 3:
-minute = int (input ('Введите минуты:'))
+minute = int(input('Введите минуты:'))
 
-print (
+print(
     f"{minute} минут - это {int(minute/60)} ч {minute%60} мин"
 )  # СОВЕТ: после print пробелы не нужны
 
